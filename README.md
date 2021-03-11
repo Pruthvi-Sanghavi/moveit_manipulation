@@ -1,5 +1,8 @@
 # PickItUp
-Repository for project 4 of Path Planning.
+Repository for project 4 of Path Planning. Path planner for a Baxter Manipulator Arm using Move-it ROS library for pick and place operation.
+<p align="center">
+  <img src="https://github.com/Pruthvi-Sanghavi/PickItUp/blob/master/proj4.gif" height="500px"/>
+</p>
 
 ## Authors
 - Pruthvi Sanghavi
@@ -35,5 +38,5 @@ cd <workspace>
 source devel/setup.bash
 rosrun pickItUp ik_pick_and_place_demo.py
 ```
-### Results
-![result](https://github.com/Pruthvi-Sanghavi/PickItUp/blob/master/proj4.gif)
+
+
